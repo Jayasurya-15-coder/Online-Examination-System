@@ -1,6 +1,6 @@
 # Online-Examination-System
-# Reg No:
-# Name:
+# Reg No:21222410026
+# Name:JAYASURYA B
 # Date:
 
 
@@ -42,7 +42,6 @@ Specifying the context and requirements of a system
 
 
 
-
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -58,6 +57,9 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1432" height="888" alt="image" src="https://github.com/user-attachments/assets/cd6e80bc-1f2e-40ce-b643-7783855a6057" />
+
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -65,6 +67,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+<img width="933" height="792" alt="image" src="https://github.com/user-attachments/assets/303b0c38-e89a-4507-9800-bcd0844e222f" />
 
 
 
@@ -78,7 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
+<img width="877" height="570" alt="image" src="https://github.com/user-attachments/assets/3f60d4fb-3bb6-43fe-a86c-5533818cead8" />
 
 
 
@@ -96,7 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+<img width="726" height="1031" alt="image" src="https://github.com/user-attachments/assets/b36aaa06-b085-4732-8857-1966a2d97459" />
 
 
 # SEQUENCE DIAGRAM
@@ -105,6 +109,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+ 
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
